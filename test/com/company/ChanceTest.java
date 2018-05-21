@@ -35,13 +35,9 @@ public class ChanceTest {
         assertEquals(chance2Complement, chance2.complement());
     }
 
-    @Test
+    @Test(expected = Exception.class)
     public void shouldAcceptValidProbability() throws Exception {
-        try {
-            Chance chance1 = Chance.probability(-0.1);
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-        }
+        Chance.probability(-0.1);
 
 
     }
