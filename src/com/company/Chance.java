@@ -1,6 +1,7 @@
 package com.company;
 
 public class Chance {
+
     private double probabilityOfOccurring;
 
     public Chance(double probabilityOfOccurring) {
@@ -17,5 +18,10 @@ public class Chance {
         if (obj.getClass() != this.getClass()) return false;
         Chance comparisonObject = (Chance) obj;
         return (comparisonObject.probabilityOfOccurring == this.probabilityOfOccurring);
+    }
+
+
+    public Chance complement() {
+        return new Chance((1 - this.probabilityOfOccurring));
     }
 }
