@@ -17,7 +17,10 @@ public class ChanceTest {
 
     @Test
     public void shouldConsiderDifferentChancesNotEqual() {
-        fail("No test written");
+        Chance chance1 = new Chance(0.1);
+        Chance chance2 = new Chance(0.2);
+
+        assertNotEquals(chance1, chance2);
     }
 
 }
