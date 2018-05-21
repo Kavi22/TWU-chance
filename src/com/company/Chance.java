@@ -1,5 +1,8 @@
 package com.company;
 
+
+import jdk.nashorn.internal.runtime.regexp.joni.exception.ValueException;
+
 public class Chance {
 
     private double probabilityOfOccurring;
@@ -7,6 +10,13 @@ public class Chance {
     public Chance(double probabilityOfOccurring) {
         this.probabilityOfOccurring = probabilityOfOccurring;
     };
+
+    public static Chance probability(double prob) throws Exception {
+        if (prob < 0 || prob > 1) {
+            throw new Exception("Invalid probability passed");
+        }
+       return new Chance(prob);
+    }
 
     @Override
     public int hashCode() {

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6e0d52d-e6ff-42a1-a63b-27bc1f6e6056" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TW101_Java_Katas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TW101_Java_Katas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Chance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Chance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/company/ChanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/ChanceTest.java" afterDir="false" />
     </list>
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChanceTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChanceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/company/ChanceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="91">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Chance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            <state relative-caret-position="320">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -61,8 +68,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/test/com/company/ChanceTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/Chance.java" />
+        <option value="$PROJECT_DIR$/test/com/company/ChanceTest.java" />
       </list>
     </option>
   </component>
@@ -193,8 +200,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526906937117</updated>
-      <workItem from="1526906938958" duration="2264000" />
+      <workItem from="1526906938958" duration="3905000" />
     </task>
+    <task id="LOCAL-00001" summary="Equality methods defined">
+      <created>1526910333678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526910333678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Equality methods defined [2]">
+      <created>1526910391603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526910391604</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add complement() method">
+      <created>1526910746761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526910746761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -204,9 +233,27 @@
     <history-entry file="ChanceTest - 2018.05.21 at 14h 39m 57s.xml">
       <configuration name="ChanceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ChanceTest - 2018.05.21 at 14h 45m 06s.xml">
+      <configuration name="ChanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChanceTest - 2018.05.21 at 14h 46m 16s.xml">
+      <configuration name="ChanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChanceTest - 2018.05.21 at 14h 50m 38s.xml">
+      <configuration name="ChanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChanceTest - 2018.05.21 at 14h 51m 16s.xml">
+      <configuration name="ChanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChanceTest - 2018.05.21 at 14h 51m 53s.xml">
+      <configuration name="ChanceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChanceTest - 2018.05.21 at 15h 05m 34s.xml">
+      <configuration name="ChanceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2264000" />
+    <option name="totallyTimeSpent" value="3905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="6" />
@@ -214,14 +261,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32830626" />
+      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.32830626" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32714617" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32714617" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3387471" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3201856" />
       <window_info id="Capture Tool" order="2" />
@@ -278,6 +325,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Equality methods defined" />
+    <MESSAGE value="Equality methods defined [2]" />
+    <MESSAGE value="Add complement() method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add complement() method" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -286,20 +340,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/company/ChanceTest.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="80">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="320">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/company/ChanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
